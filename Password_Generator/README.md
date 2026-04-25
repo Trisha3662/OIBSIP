@@ -26,7 +26,9 @@ A simple and secure password generator built using Python and Tkinter.
 
 ## 🎥 Demo Video
 
-[▶️ Watch Demo Video](./password_generator_demo.mp4)
+Click below to download and watch the demo:
+
+[Download Demo Video](password_generator_demo.mp4)
 
 ## 🛠 Tech Used
 - Python
