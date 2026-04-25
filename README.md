@@ -1,40 +1,14 @@
-# 💻 BMI Calculator GUI (Python)
+# 💼 OIBSIP Internship Projects
 
-A simple and user-friendly BMI Calculator built using Python and Tkinter.
+This repository contains my internship projects.
 
----
+## 🚀 Projects
 
-## 🚀 Features
-- GUI-based application
-- Input validation
-- BMI category detection
-- History tracking
-- Clean and modern UI
+### 1️⃣ BMI Calculator (Python GUI)
+📁 Folder: BMI_Calculator
 
----
-
-## 📸 Screenshots
-
-### 🖥️ Main Interface
-![Main UI](screenshot1.png)
-
-### 📊 Result Output
-![Result](screenshot2.png)
+### 2️⃣ Password Generator
+📁 Folder: Coming Soon
 
 ---
-
-## 🛠️ Tech Used
-- Python
-- Tkinter
-
----
-
-## 📌 How to Run
-```bash
-python bmi.py
-```
-
----
-
-## 👩‍💻 Author
-Trisha
+More projects will be added.
