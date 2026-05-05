@@ -15,10 +15,10 @@ A simple GUI-based weather application that fetches real-time weather data using
 ## 📸 Screenshots
 
 ### UI
-(Add image here)
+![UI](ui.png)
 
 ### Output
-(Add image here)
+![Output](output.png)
 
 ---
 
